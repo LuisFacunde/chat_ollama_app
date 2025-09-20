@@ -22,10 +22,10 @@ Este projeto é um chat simples utilizando o modelo Ollama (phi3:mini) via LangC
 ## Execução
 
 Execute o arquivo principal:
-```powershell
-cd src
-python -m main
-```
+	```powershell
+	cd src
+	python -m main
+	```
 
 ## Uso
 - Digite sua mensagem e pressione Enter para conversar com o modelo.
