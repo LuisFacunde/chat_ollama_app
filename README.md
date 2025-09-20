@@ -33,9 +33,9 @@ Execute o arquivo principal:
 
 ## Configuração do modelo
 O modelo está configurado para acessar o Ollama em:
-```
-http://ollama.eastus.cloudapp.azure.com:11434
-```
+	```
+	http://ollama.eastus.cloudapp.azure.com:11434
+	```
 
 ## Equipe de Desenvolvimento
 
