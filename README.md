@@ -1,4 +1,4 @@
-# chat_ollama_app
+# ChatBot Ollama App
 
 Este projeto é um chat simples utilizando o modelo Ollama (phi3:mini) via LangChain.
 
