@@ -37,8 +37,11 @@ O modelo está configurado para acessar o Ollama em:
 http://ollama.eastus.cloudapp.azure.com:11434
 ```
 
-Você pode alterar o endereço e o modelo editando o arquivo `src/main.py`.
+## Equipe de Desenvolvimento
 
 ---
-
-LuisFacunde - 2025
+Luis Henrique Facunde da Silva
+Gabriel Rodrigues Britto
+Lucas Antônio Cunha Deodato da Silva
+Jamilla Soares Lobo
+Isabela karla de Araújo Silva
