@@ -36,12 +36,12 @@ O modelo está configurado para acessar o Ollama em:
 	```
 	http://ollama.eastus.cloudapp.azure.com:11434
 	```
+ 
+---
 
 ## Equipe de Desenvolvimento
-
----
-Luis Henrique Facunde da Silva
-Gabriel Rodrigues Britto
-Lucas Antônio Cunha Deodato da Silva
-Jamilla Soares Lobo
-Isabela karla de Araújo Silva
+- Luis Henrique Facunde da Silva
+- Gabriel Rodrigues Britto
+- Lucas Antônio Cunha Deodato da Silva
+- Jamilla Soares Lobo
+- Isabela karla de Araújo Silva
