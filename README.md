@@ -23,7 +23,8 @@ Este projeto é um chat simples utilizando o modelo Ollama (phi3:mini) via LangC
 
 Execute o arquivo principal:
 ```powershell
-C:/Users/luis.silva/AppData/Local/Programs/Python/Python313/python.exe src/main.py
+cd src
+python -m main
 ```
 
 ## Uso
